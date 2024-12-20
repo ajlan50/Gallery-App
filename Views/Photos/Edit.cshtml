@@ -1,0 +1,51 @@
+﻿@model Photo;
+<hr />
+<div class="row mx-auto w-100">
+	<div asp-validation-summary="All" class="text-danger"></div>
+	<div class="d-flex justify-content-between align-content-center flex-column flex-md-row">
+		<div class="col-md-6   bg-body-secondary shadow-lg py-5 m-4 my-md-0" style="height:fit-content">
+			<form class="px-3" asp-action="Edit" method="post" enctype="multipart/form-data">
+				<div class="form-group">
+					<label asp-for="Title" class="control-label"></label>
+					<input asp-for="Title" class="form-control" />
+					<span asp-validation-for="Title" class="text-danger"></span>
+				</div>
+				<div class="form-group my-3">
+					<label asp-for="Image" class="control-label"></label>
+					<input id="ImageForm" onchange="openFile(event)" type="file" asp-for="Image" accept=".png, .jpg,.jpeh" class="form-control" />
+					<span asp-validation-for="Image" class="text-danger"></span>
+				</div>
+
+				<div class="form-group">
+					<input type="submit" value="Save" class="btn btn-primary mt-5" />
+				</div>
+			</form>
+		</div>
+
+		<div class="text-center" style="width:400px;">
+			<img id="ImagePriv" asp-append-version="true" style="width:100%; height:400px;object-fit:cover;" src="data:image\/*;base64,@(Convert.ToBase64String(Model.Image??[]))" alt="Selected Photo" />
+		</div>
+
+	</div>
+
+	<div>
+		<a asp-action="Index" class="btn btn-primary mt-4 mx-auto" style="text-decoration:none">Back to List</a>
+	</div>
+</div>
+@section Scripts {
+	<script src="~/js/lodeimage.js" defer asp-append-version="true"></script>
+	<script>
+		let form = document.querySelector("form");
+
+		//ImageForm.files[0].size = 3645646564;
+		form.addEventListener("submit", (e) => {
+
+			if (ImageForm.files[0].size / 1024 /1024  > 2) {
+				ImageForm.nextElementSibling.innerText = "Image should be less than 2MB";
+				e.preventDefault();
+			}
+		})
+
+
+	</script>
+}

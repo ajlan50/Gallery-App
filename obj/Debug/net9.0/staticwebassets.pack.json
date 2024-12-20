@@ -1,0 +1,365 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\Users\\HP\\Desktop\\Try It Out\\Gallrey\\obj\\Debug\\net9.0\\scopedcss\\projectbundle\\Gallrey.bundle.scp.css",
+      "PackagePath": "staticwebassets\\Gallrey.j52zhdmj3w.bundle.scp.css"
+    },
+    {
+      "Id": "C:\\Users\\HP\\Desktop\\Try It Out\\Gallrey\\wwwroot\\Images\\5af200_de814f9f9d9843d7975ee99037a8af09~mv2.png",
+      "PackagePath": "staticwebassets\\Images\\5af200_de814f9f9d9843d7975ee99037a8af09~mv2.png"
+    },
+    {
+      "Id": "C:\\Users\\HP\\Desktop\\Try It Out\\Gallrey\\wwwroot\\Images\\DSC02238-Edit-3.png",
+      "PackagePath": "staticwebassets\\Images\\DSC02238-Edit-3.png"
+    },
+    {
+      "Id": "C:\\Users\\HP\\Desktop\\Try It Out\\Gallrey\\wwwroot\\Images\\DSC05062-4.jpg",
+      "PackagePath": "staticwebassets\\Images\\DSC05062-4.jpg"
+    },
+    {
+      "Id": "C:\\Users\\HP\\Desktop\\Try It Out\\Gallrey\\wwwroot\\Images\\katherynmoranphotography-Logo-color-full-1.webp",
+      "PackagePath": "staticwebassets\\Images\\katherynmoranphotography-Logo-color-full-1.webp"
+    },
+    {
+      "Id": "C:\\Users\\HP\\Desktop\\Try It Out\\Gallrey\\wwwroot\\Images\\nate_logo_white.png",
+      "PackagePath": "staticwebassets\\Images\\nate_logo_white.png"
+    },
+    {
+      "Id": "C:\\Users\\HP\\Desktop\\Try It Out\\Gallrey\\wwwroot\\Images\\untitled-8648-3.Png",
+      "PackagePath": "staticwebassets\\Images\\untitled-8648-3.Png"
+    },
+    {
+      "Id": "C:\\Users\\HP\\Desktop\\Try It Out\\Gallrey\\wwwroot\\css\\site.css",
+      "PackagePath": "staticwebassets\\css\\site.css"
+    },
+    {
+      "Id": "C:\\Users\\HP\\Desktop\\Try It Out\\Gallrey\\wwwroot\\favicon.ico",
+      "PackagePath": "staticwebassets\\favicon.ico"
+    },
+    {
+      "Id": "C:\\Users\\HP\\Desktop\\Try It Out\\Gallrey\\wwwroot\\js\\lodeimage.js",
+      "PackagePath": "staticwebassets\\js\\lodeimage.js"
+    },
+    {
+      "Id": "C:\\Users\\HP\\Desktop\\Try It Out\\Gallrey\\wwwroot\\js\\notification.js",
+      "PackagePath": "staticwebassets\\js\\notification.js"
+    },
+    {
+      "Id": "C:\\Users\\HP\\Desktop\\Try It Out\\Gallrey\\wwwroot\\js\\site.js",
+      "PackagePath": "staticwebassets\\js\\site.js"
+    },
+    {
+      "Id": "C:\\Users\\HP\\Desktop\\Try It Out\\Gallrey\\wwwroot\\js\\sweet-allsert.js",
+      "PackagePath": "staticwebassets\\js\\sweet-allsert.js"
+    },
+    {
+      "Id": "C:\\Users\\HP\\Desktop\\Try It Out\\Gallrey\\wwwroot\\lib\\bootstrap\\LICENSE",
+      "PackagePath": "staticwebassets\\lib\\bootstrap"
+    },
+    {
+      "Id": "C:\\Users\\HP\\Desktop\\Try It Out\\Gallrey\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css"
+    },
+    {
+      "Id": "C:\\Users\\HP\\Desktop\\Try It Out\\Gallrey\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map"
+    },
+    {
+      "Id": "C:\\Users\\HP\\Desktop\\Try It Out\\Gallrey\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css"
+    },
+    {
+      "Id": "C:\\Users\\HP\\Desktop\\Try It Out\\Gallrey\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\HP\\Desktop\\Try It Out\\Gallrey\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\HP\\Desktop\\Try It Out\\Gallrey\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\HP\\Desktop\\Try It Out\\Gallrey\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\HP\\Desktop\\Try It Out\\Gallrey\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\HP\\Desktop\\Try It Out\\Gallrey\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css"
+    },
+    {
+      "Id": "C:\\Users\\HP\\Desktop\\Try It Out\\Gallrey\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map"
+    },
+    {
+      "Id": "C:\\Users\\HP\\Desktop\\Try It Out\\Gallrey\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css"
+    },
+    {
+      "Id": "C:\\Users\\HP\\Desktop\\Try It Out\\Gallrey\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\HP\\Desktop\\Try It Out\\Gallrey\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\HP\\Desktop\\Try It Out\\Gallrey\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\HP\\Desktop\\Try It Out\\Gallrey\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\HP\\Desktop\\Try It Out\\Gallrey\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\HP\\Desktop\\Try It Out\\Gallrey\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css"
+    },
+    {
+      "Id": "C:\\Users\\HP\\Desktop\\Try It Out\\Gallrey\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map"
+    },
+    {
+      "Id": "C:\\Users\\HP\\Desktop\\Try It Out\\Gallrey\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css"
+    },
+    {
+      "Id": "C:\\Users\\HP\\Desktop\\Try It Out\\Gallrey\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\HP\\Desktop\\Try It Out\\Gallrey\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\HP\\Desktop\\Try It Out\\Gallrey\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\HP\\Desktop\\Try It Out\\Gallrey\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\HP\\Desktop\\Try It Out\\Gallrey\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\HP\\Desktop\\Try It Out\\Gallrey\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css"
+    },
+    {
+      "Id": "C:\\Users\\HP\\Desktop\\Try It Out\\Gallrey\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css.map"
+    },
+    {
+      "Id": "C:\\Users\\HP\\Desktop\\Try It Out\\Gallrey\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css"
+    },
+    {
+      "Id": "C:\\Users\\HP\\Desktop\\Try It Out\\Gallrey\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\HP\\Desktop\\Try It Out\\Gallrey\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\HP\\Desktop\\Try It Out\\Gallrey\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\HP\\Desktop\\Try It Out\\Gallrey\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\HP\\Desktop\\Try It Out\\Gallrey\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\HP\\Desktop\\Try It Out\\Gallrey\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js"
+    },
+    {
+      "Id": "C:\\Users\\HP\\Desktop\\Try It Out\\Gallrey\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map"
+    },
+    {
+      "Id": "C:\\Users\\HP\\Desktop\\Try It Out\\Gallrey\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js"
+    },
+    {
+      "Id": "C:\\Users\\HP\\Desktop\\Try It Out\\Gallrey\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\HP\\Desktop\\Try It Out\\Gallrey\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js"
+    },
+    {
+      "Id": "C:\\Users\\HP\\Desktop\\Try It Out\\Gallrey\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map"
+    },
+    {
+      "Id": "C:\\Users\\HP\\Desktop\\Try It Out\\Gallrey\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js"
+    },
+    {
+      "Id": "C:\\Users\\HP\\Desktop\\Try It Out\\Gallrey\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\HP\\Desktop\\Try It Out\\Gallrey\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js"
+    },
+    {
+      "Id": "C:\\Users\\HP\\Desktop\\Try It Out\\Gallrey\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js.map"
+    },
+    {
+      "Id": "C:\\Users\\HP\\Desktop\\Try It Out\\Gallrey\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js"
+    },
+    {
+      "Id": "C:\\Users\\HP\\Desktop\\Try It Out\\Gallrey\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\HP\\Desktop\\Try It Out\\Gallrey\\wwwroot\\lib\\bootswach\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootswach\\bootstrap.min.css"
+    },
+    {
+      "Id": "C:\\Users\\HP\\Desktop\\Try It Out\\Gallrey\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\LICENSE.txt"
+    },
+    {
+      "Id": "C:\\Users\\HP\\Desktop\\Try It Out\\Gallrey\\wwwroot\\lib\\jquery-validation-unobtrusive\\dist\\jquery.validate.unobtrusive.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\dist\\jquery.validate.unobtrusive.js"
+    },
+    {
+      "Id": "C:\\Users\\HP\\Desktop\\Try It Out\\Gallrey\\wwwroot\\lib\\jquery-validation-unobtrusive\\dist\\jquery.validate.unobtrusive.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\dist\\jquery.validate.unobtrusive.min.js"
+    },
+    {
+      "Id": "C:\\Users\\HP\\Desktop\\Try It Out\\Gallrey\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\LICENSE.md"
+    },
+    {
+      "Id": "C:\\Users\\HP\\Desktop\\Try It Out\\Gallrey\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.js"
+    },
+    {
+      "Id": "C:\\Users\\HP\\Desktop\\Try It Out\\Gallrey\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.min.js"
+    },
+    {
+      "Id": "C:\\Users\\HP\\Desktop\\Try It Out\\Gallrey\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.js"
+    },
+    {
+      "Id": "C:\\Users\\HP\\Desktop\\Try It Out\\Gallrey\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.min.js"
+    },
+    {
+      "Id": "C:\\Users\\HP\\Desktop\\Try It Out\\Gallrey\\wwwroot\\lib\\jquery\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery\\LICENSE.txt"
+    },
+    {
+      "Id": "C:\\Users\\HP\\Desktop\\Try It Out\\Gallrey\\wwwroot\\lib\\jquery\\dist\\jquery.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.js"
+    },
+    {
+      "Id": "C:\\Users\\HP\\Desktop\\Try It Out\\Gallrey\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.js"
+    },
+    {
+      "Id": "C:\\Users\\HP\\Desktop\\Try It Out\\Gallrey\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.map"
+    },
+    {
+      "Id": "C:\\Users\\HP\\Desktop\\Try It Out\\Gallrey\\wwwroot\\lib\\jquery\\dist\\jquery.slim.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.slim.js"
+    },
+    {
+      "Id": "C:\\Users\\HP\\Desktop\\Try It Out\\Gallrey\\wwwroot\\lib\\jquery\\dist\\jquery.slim.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.slim.min.js"
+    },
+    {
+      "Id": "C:\\Users\\HP\\Desktop\\Try It Out\\Gallrey\\wwwroot\\lib\\jquery\\dist\\jquery.slim.min.map",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.slim.min.map"
+    },
+    {
+      "Id": "C:\\Users\\HP\\Desktop\\Try It Out\\Gallrey\\wwwroot\\sweetalert2\\sweetalert2.all.js",
+      "PackagePath": "staticwebassets\\sweetalert2\\sweetalert2.all.js"
+    },
+    {
+      "Id": "C:\\Users\\HP\\Desktop\\Try It Out\\Gallrey\\wwwroot\\sweetalert2\\sweetalert2.all.min.js",
+      "PackagePath": "staticwebassets\\sweetalert2\\sweetalert2.all.min.js"
+    },
+    {
+      "Id": "C:\\Users\\HP\\Desktop\\Try It Out\\Gallrey\\wwwroot\\sweetalert2\\sweetalert2.css",
+      "PackagePath": "staticwebassets\\sweetalert2\\sweetalert2.css"
+    },
+    {
+      "Id": "C:\\Users\\HP\\Desktop\\Try It Out\\Gallrey\\wwwroot\\sweetalert2\\sweetalert2.d.ts",
+      "PackagePath": "staticwebassets\\sweetalert2\\sweetalert2.d.ts"
+    },
+    {
+      "Id": "C:\\Users\\HP\\Desktop\\Try It Out\\Gallrey\\wwwroot\\sweetalert2\\sweetalert2.esm.all.js",
+      "PackagePath": "staticwebassets\\sweetalert2\\sweetalert2.esm.all.js"
+    },
+    {
+      "Id": "C:\\Users\\HP\\Desktop\\Try It Out\\Gallrey\\wwwroot\\sweetalert2\\sweetalert2.esm.all.min.js",
+      "PackagePath": "staticwebassets\\sweetalert2\\sweetalert2.esm.all.min.js"
+    },
+    {
+      "Id": "C:\\Users\\HP\\Desktop\\Try It Out\\Gallrey\\wwwroot\\sweetalert2\\sweetalert2.esm.js",
+      "PackagePath": "staticwebassets\\sweetalert2\\sweetalert2.esm.js"
+    },
+    {
+      "Id": "C:\\Users\\HP\\Desktop\\Try It Out\\Gallrey\\wwwroot\\sweetalert2\\sweetalert2.esm.min.js",
+      "PackagePath": "staticwebassets\\sweetalert2\\sweetalert2.esm.min.js"
+    },
+    {
+      "Id": "C:\\Users\\HP\\Desktop\\Try It Out\\Gallrey\\wwwroot\\sweetalert2\\sweetalert2.js",
+      "PackagePath": "staticwebassets\\sweetalert2\\sweetalert2.js"
+    },
+    {
+      "Id": "C:\\Users\\HP\\Desktop\\Try It Out\\Gallrey\\wwwroot\\sweetalert2\\sweetalert2.min.css",
+      "PackagePath": "staticwebassets\\sweetalert2\\sweetalert2.min.css"
+    },
+    {
+      "Id": "C:\\Users\\HP\\Desktop\\Try It Out\\Gallrey\\wwwroot\\sweetalert2\\sweetalert2.min.js",
+      "PackagePath": "staticwebassets\\sweetalert2\\sweetalert2.min.js"
+    },
+    {
+      "Id": "obj\\Debug\\net9.0\\staticwebassets\\msbuild.Gallrey.Microsoft.AspNetCore.StaticWebAssetEndpoints.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssetEndpoints.props"
+    },
+    {
+      "Id": "obj\\Debug\\net9.0\\staticwebassets\\msbuild.Gallrey.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net9.0\\staticwebassets\\msbuild.build.Gallrey.props",
+      "PackagePath": "build\\Gallrey.props"
+    },
+    {
+      "Id": "obj\\Debug\\net9.0\\staticwebassets\\msbuild.buildMultiTargeting.Gallrey.props",
+      "PackagePath": "buildMultiTargeting\\Gallrey.props"
+    },
+    {
+      "Id": "obj\\Debug\\net9.0\\staticwebassets\\msbuild.buildTransitive.Gallrey.props",
+      "PackagePath": "buildTransitive\\Gallrey.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

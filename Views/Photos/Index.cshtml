@@ -1,0 +1,65 @@
+﻿@model IQueryable<Photo>;
+	<a asp-action="Create" class="btn btn-primary mt-3" style="width:fit-content;height:fit-content;"> New photo </a>
+
+<div class="row mt-2">
+	<div id="notifContainer" style="position:fixed;top:50px;right:20px;width:400px;display:@(string.IsNullOrEmpty(TempData["Messege"]?.ToString()) ? "none" : "block")"></div>
+	@if (!Model.Any())
+	{
+		<div class="alert alert-dismissible alert-secondary">
+			<strong>Heads up!</strong><p class="mb-0"> There Is No Photos Yet Please Go To Create New One <a asp-action="Create" class="alert-link">Go On</a>.</p>
+		</div>
+		
+	}
+	
+		@if(Model.Any()){
+		@if ((bool)ViewBag.AllwoPagination){
+			<div class="">
+				<ul class="pagination" style="width:fit-content">
+					<li class="page-item ">
+						<a class="page-link" asp-action="Index" asp-route-pageNumber="@((int)ViewBag.CurentPage - 1)">&laquo;</a>
+					</li>
+					@for (int i = 1; i <= ViewBag.NumOfPages; i++)
+					{
+						<li class="page-item  @((int)ViewBag.CurentPage == i ? "active":"")">
+							<a asp-action="Index" asp-route-pageNumber="@i" class="page-link">@i</a>
+						</li>
+					}
+					<li class="page-item">
+						<a asp-action="Index" asp-route-pageNumber="@((int)ViewBag.CurentPage + 1)" class="page-link">&raquo;</a>
+					</li>
+				</ul>
+			</div>
+		}
+		
+		@foreach(var photo in Model){
+
+					<div class="col-lg-4 my-2">
+						<div class="card border-1" style="width: 100%;">
+					<img class="" style="aspect-ratio:3/2; object-fit:cover;" src="data:image\/*;base64,@(Convert.ToBase64String(photo.Image??[]))" alt="Card image cap">
+							<div class="card-body">
+								<h5 class="card-title text-center">@photo.Title.ToUpper()</h5>
+									</div>
+							<div class="card-footer">
+								<a class="btn btn-outline-danger btn-delete" data-Id="@photo.Id" href="javascript:;">
+									Delete
+								</a>
+								<a class="btn btn-outline-primary " asp-action="Edit" asp-route-Id="@photo.Id">
+									Edit
+								</a>
+							</div>
+						</div>
+					</div>
+			}
+	}
+	
+
+	
+	
+</div>
+@section Scripts
+{
+	<script src="~/js/sweet-allsert.js" asp-append-version="true"></script>
+    <script>
+		creatNotification(`@(TempData["Messege"]?.ToString())` , 'text-green-400' , true)
+    </script>
+}

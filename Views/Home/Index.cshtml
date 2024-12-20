@@ -1,0 +1,32 @@
+﻿@model IQueryable<Photo>;
+<div class="row mt-4">
+	<div id="notifContainer" style="position:fixed;top:50px;right:20px;width:500px;display:@(string.IsNullOrEmpty(TempData["Messege"]?.ToString()) ? "none" : "block")"></div>
+	@if (!Model.Any())
+	{
+		<div class="alert alert-dismissible alert-secondary">
+			<strong>Heads up!</strong><p class="mb-0"> There Is No Photos Yet Please Go To Create New One <a asp-controller="Photos" asp-action="Create" class="alert-link">Go On</a>.</p>
+		</div>
+
+	}
+	@if (Model.Any())
+	{
+		@foreach (var photo in Model)
+		{
+
+			<div class="col-lg-4">
+				<div class="card shadow-none border-0" style="width: 100%;">
+					<img class="" style="aspect-ratio:3/2;object-fit:cover;" src="data:image\/*;base64,@(Convert.ToBase64String(photo.Image??[]))" alt="Card image cap">
+					<div class="card-body">
+						<h5 class="card-title text-center">@photo.Title.ToUpper()</h5>
+					</div>
+					
+				</div>
+			</div>
+
+		}
+	}
+
+
+
+
+</div>
